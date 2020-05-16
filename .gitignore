@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#This self generates on Macs so it's ignored as well
+.DS_Store
