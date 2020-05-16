@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\HP\Documents\codingnprogramming\projects\C++projects\Tests\SnekGame3.0\Random.h(13,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Documents\codingnprogramming\projects\C++projects\Tests\SnekGame3.0\Snake.h(63,20): warning C4018: '<': signed/unsigned mismatch
+  SnekGame3.0.vcxproj -> C:\Users\HP\Documents\codingnprogramming\projects\C++projects\Tests\SnekGame3.0\Debug\SnekGame3.0.exe

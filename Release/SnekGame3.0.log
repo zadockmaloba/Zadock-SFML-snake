@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\HP\Documents\codingnprogramming\projects\C++projects\Tests\SnekGame3.0\Random.h(13,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Documents\codingnprogramming\projects\C++projects\Tests\SnekGame3.0\Snake.h(62,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  14 of 175 functions ( 8.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SnekGame3.0.vcxproj -> C:\Users\HP\Documents\codingnprogramming\projects\C++projects\Tests\SnekGame3.0\Release\SnekGame3.0.exe

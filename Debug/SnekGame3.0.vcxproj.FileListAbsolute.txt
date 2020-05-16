@@ -1,0 +1,2 @@
+C:\Users\HP\Documents\codingnprogramming\projects\C++projects\Tests\SnekGame3.0\Debug\SnekGame3.0.exe
+C:\Users\HP\Documents\codingnprogramming\projects\C++projects\Tests\SnekGame3.0\Debug\SnekGame3.0.pdb
